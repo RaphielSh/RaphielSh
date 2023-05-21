@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hey, friend! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
-<!--
-**RaphielSh/RaphielSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Welcome to my profile!</b><br>
+  <i>I'm first year student. :computer: </i><br>
+  <i>Currently learning infosec stuff. :closed_lock_with_key:</i>
+</p>
 
-Here are some ideas to get you started:
+### Languages
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/RaphielSh)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/RaphielSh)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/RaphielSh)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/RaphielSh)
+[![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=assembly)](https://github.com/RaphielSh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/RaphielSh)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/RaphielSh)
+
+### Program experience
+[![Elastic Search](https://img.shields.io/badge/ElasticSearch-black?style=for-the-badge&logo=ElasticSearch)](https://github.com/RaphielSh)
+[![Cisco](https://img.shields.io/badge/Cisco-black?style=for-the-badge&logo=Cisco)](https://github.com/RaphielSh)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://github.com/RaphielSh)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=VirtualBox)](https://github.com/RaphielSh)
+
+<br><br>
+## Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphielSh&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaphielSh&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphielSh&theme=transparent)
+<p>
+  <a href="https://github.com/RaphielSh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphielSh&langs_count=5&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
