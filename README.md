@@ -26,9 +26,9 @@
 
 <br><br>
 ## Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphielSh&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaphielSh&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphielSh&theme=transparent)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaphielSh&theme=transparent)](https://github.com/RaphielSh)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaphielSh&theme=transparent)](https://github.com/RaphielSh)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaphielSh&theme=transparent)](https://github.com/RaphielSh)
 <p>
   <a href="https://github.com/RaphielSh">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphielSh&langs_count=5&layout=default&card_width=699&hide_border=true&theme=transparent" />
