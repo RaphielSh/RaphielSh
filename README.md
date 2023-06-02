@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Welcome to my profile!</b><br>
-  <i>I'm first year student. :computer: </i><br>
+  <i>I'm second year student. :computer: </i><br>
   <i>Currently learn infosec stuff. :closed_lock_with_key:</i>
 </p>
 
