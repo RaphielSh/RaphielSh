@@ -11,7 +11,6 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/RaphielSh)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/RaphielSh)
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://github.com/RaphielSh)
-[![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=assembly)](https://github.com/RaphielSh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/RaphielSh)
 
 ### OS
