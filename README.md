@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Welcome to my profile!</b><br>
-  <i>I'm second year student. :computer: </i><br>
-  <i>Currently learn infosec stuff. :closed_lock_with_key:</i>
+  <i>I'm third year student. :computer: </i><br>
+  <i>Currently learning infosec stuff. :closed_lock_with_key:</i>
 </p>
 
 ### Languages
