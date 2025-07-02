@@ -7,20 +7,22 @@
 </p>
 
 ### Languages stack
-[![Ansible](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=ansible)](https://github.com/RaphielSh)
+[![Ansible](https://img.shields.io/badge/ansible-black?style=for-the-badge&logo=ansible)](https://github.com/RaphielSh)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/RaphielSh)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/RaphielSh)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/RaphielSh)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/RaphielSh)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/RaphielSh)
+[![Debian](https://img.shields.io/badge/debian-black?style=for-the-badge&logo=debian)](https://github.com/RaphielSh)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/RaphielSh)
+[![Arch](https://img.shields.io/badge/Arch-black?style=for-the-badge&logo=archlinux)](https://github.com/RaphielSh)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/RaphielSh)
 
 ### Other stuff
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker)](https://github.com/RaphielSh)
-[![MegaRAID](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=broadcom)]()
-[![Emulex](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=broadcom)]()
+[![MegaRAID](https://img.shields.io/badge/megaraid-black?style=for-the-badge&logo=broadcom)]()
+[![Emulex](https://img.shields.io/badge/emulex-black?style=for-the-badge&logo=broadcom)]()
 
 
 
